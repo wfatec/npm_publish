@@ -12,5 +12,11 @@ npm adduser
 npm adduser --registry yourregistrypath
 ```
 
+登录成功之后，即可执行一下命令进行发布
+
+```text
+npm publish
+```
+
 
 
